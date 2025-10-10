@@ -1,4 +1,4 @@
-abc{
+{
   "name": "my-demo-app",
   "version": "1.0.0",
   "description": "Simple Node.js app for AWS CodeDeploy demo",
@@ -7,6 +7,6 @@ abc{
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.3"
   }
 }
